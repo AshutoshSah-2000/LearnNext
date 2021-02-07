@@ -10,7 +10,9 @@ export default function Navbar({children}) {
                 <Toolbar variant="dense">
                      Learning Next Js
                      <Link href="/about"><a>About</a>
-                     </Link>                     
+                     </Link>
+                     <Link href="/"><a>Home</a>
+                     </Link>                           
                 </Toolbar>
             </AppBar>
         {children}
