@@ -2,7 +2,7 @@
 module.exports ={
   images: {
     loader: 'imgix'},
-  imagesPublicPath: '/LearnNext/_next/static/images/',
+  imagesPublicPath: '/LearnNext/',
     assetPrefix: '/LearnNext/',
     basePath: '/LearnNext'
 }   
