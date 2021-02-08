@@ -5,7 +5,7 @@ export default function about() {
         <div>
             <h1 >About Page</h1>
         <h4>Checking if update works!</h4>
-        <Image src='/mit.webp'></Image>
+        <Image src='/mit.webp' alt = 'imagesdf'></Image>
         </div>
     )
 }
