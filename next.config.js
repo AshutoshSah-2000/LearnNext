@@ -1,8 +1,5 @@
 
-module.exports ={
-  images: {
-    loader: 'imgix'},
-  imagesPublicPath: '/LearnNext/',
-    assetPrefix: '/LearnNext/',
+module.exports ={  
+    assetPrefix: '/LearnNext',
     basePath: '/LearnNext'
 }   
